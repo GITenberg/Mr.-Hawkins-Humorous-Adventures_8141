@@ -1,5 +1,8 @@
 _repo: Mr.-Hawkins-Humorous-Adventures_8141
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Franklin, Edgar
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2663'
     url: http://www.gutenberg.org/2009/agents/2663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8141#Mr.-Hawkins-Humorous-Adventures
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
